@@ -1,5 +1,5 @@
 {
-	"name" : "mikerow/pippi",
+	"name" : "mikerow/pippinphp",
 	"type" : "library",
 	"description" : "PHP libraries and tools for Pippin wallet",
 	"keywords" : [
@@ -10,7 +10,7 @@
 		"php",
 		"cli"
 	],
-	"homepage" : "https://github.com/MikeRow/Pippi",
+	"homepage" : "https://github.com/MikeRow/PippinPHP",
 	"license" : "MIT",
 	"authors" : [{
 			"name" : "MikeRow",
@@ -23,10 +23,10 @@
 	},
 	"autoload" : {
 		"psr-4" : {
-			"MikeRow\\Pippi\\" : "src/"
+			"MikeRow\\PippinPHP\\" : "src/"
 		}
 	},
 	"support" : {
-		"wiki" : "https://github.com/MikeRow/Pippi/wiki"
+		"wiki" : "https://github.com/MikeRow/PippinPHP/wiki"
 	}
 }
