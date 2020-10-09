@@ -6,7 +6,7 @@ Documentation at [PippinPHP/wiki](https://github.com/MikeRow/PippinPHP/wiki)
 
 ---
 
-## Features
+## Pippin
 
 - [PippinCLI](https://github.com/MikeRow/PippinPHP/wiki/PippinCLI)
 
