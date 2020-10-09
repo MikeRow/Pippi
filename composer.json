@@ -19,16 +19,7 @@
 	],
 	"minimum-stability" : "stable",
 	"require" : {
-		"php-64bit" : "^7.2.0",
-		"ext-curl" : "*",
-		"ext-sockets" : "*",
-		"ext-gmp" : "*",
-		"ext-mbstring" : "*",
-		"ext-openssl" : "*",
-		"mikerow/salt" : "*",
-		"bitwasp/bitcoin-lib" : "1.0.*",
-		"textalk/websocket" : "*",
-		"google/flatbuffers" : "*"
+		"php-64bit" : "^7.2.0"
 	},
 	"autoload" : {
 		"psr-4" : {
