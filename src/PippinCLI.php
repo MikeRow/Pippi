@@ -1,6 +1,6 @@
 <?php
 
-namespace MikeRow\PippinPHP;
+namespace MikeRow\Pippi;
 
 use \Exception;
 
