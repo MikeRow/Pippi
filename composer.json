@@ -1,0 +1,41 @@
+{
+	"name" : "mikerow/pippinphp",
+	"type" : "library",
+	"description" : "PHP libraries and tools for Pippin wallet",
+	"keywords" : [
+		"pippin",
+		"banano",
+		"nano",
+		"raiblocks",
+		"php",
+		"cli"
+	],
+	"homepage" : "https://github.com/MikeRow/PippinPHP",
+	"license" : "MIT",
+	"authors" : [{
+			"name" : "MikeRow",
+			"role" : "Developer"
+		}
+	],
+	"minimum-stability" : "stable",
+	"require" : {
+		"php-64bit" : "^7.2.0",
+		"ext-curl" : "*",
+		"ext-sockets" : "*",
+		"ext-gmp" : "*",
+		"ext-mbstring" : "*",
+		"ext-openssl" : "*",
+		"mikerow/salt" : "*",
+		"bitwasp/bitcoin-lib" : "1.0.*",
+		"textalk/websocket" : "*",
+		"google/flatbuffers" : "*"
+	},
+	"autoload" : {
+		"psr-4" : {
+			"MikeRow\\PippinPHP\\" : "src/"
+		}
+	},
+	"support" : {
+		"wiki" : "https://github.com/MikeRow/PippinPHP/wiki"
+	}
+}
