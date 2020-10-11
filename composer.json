@@ -25,8 +25,5 @@
 		"psr-4" : {
 			"MikeRow\\PippinPHP\\" : "src/"
 		}
-	},
-	"support" : {
-		"wiki" : "https://github.com/MikeRow/PippinPHP/wiki"
 	}
 }
