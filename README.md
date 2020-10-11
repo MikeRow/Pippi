@@ -6,6 +6,14 @@ Examples at [PippinPHP/test](https://github.com/MikeRow/PippinPHP/tree/main/test
 
 ---
 
+## Install
+
+<pre>
+composer require mikerow/pippinphp
+</pre>
+
+---
+
 ## Features
 
 - [PippinCLI](https://github.com/MikeRow/PippinPHP/blob/main/src/PippinCLI.php)
